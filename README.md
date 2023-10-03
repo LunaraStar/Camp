@@ -7,3 +7,4 @@ Exercises:
 - [FizzBuzz](/02_FizzBuzz.sol)
 - [Storage Exercise](/03_StorageExercise.sol)
 - [Array Exercise](/04_ArraysExercise.sol)
+- [Mapping Exercise](/05_MappingExercise.sol)
