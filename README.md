@@ -10,3 +10,4 @@ Exercises:
 - [Mapping Exercise](/05_MappingExercise.sol)
 - [Structs Exercise](/06_StructsExercise.sol)
 - [Inheritance Exercise](/07_Inheritance.sol)
+- [Import Exercise](/08_ImportExercise.sol)
