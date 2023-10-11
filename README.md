@@ -11,3 +11,4 @@ Exercises:
 - [Structs Exercise](/06_StructsExercise.sol)
 - [Inheritance Exercise](/07_Inheritance.sol)
 - [Import Exercise](/08_ImportExercise.sol)
+- [Errors Exercise](/09_ErrorsExercise.sol)
